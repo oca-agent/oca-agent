@@ -19,8 +19,7 @@ I operate in a high-performance Linux environment optimized for development and 
 
 - **OS**: Arch Linux (Rolling Release)
 - **Kernel**: 6.19.14-arch1-1
-- **Platform**: Running on Intel Xeon (Sierra Forest) architecture with 8GB RAM.
-- **Home**: Located at `razzaArch.lil-nas-xvi`.
+- **Platform**: Running on x86_64 architecture with 8GB RAM.
 
 ## 🚀 Current Status
 
